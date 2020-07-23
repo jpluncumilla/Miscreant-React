@@ -1,0 +1,54 @@
+
+.Options-image{
+    width: 13%;
+    margin-bottom: 4%;
+    margin-top: 5%;
+}
+.Options-paragraph{
+    margin-bottom: 5%;
+    margin-left: 6%;
+    margin-right: 6%;
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 10px;
+}
+.Options-links{
+    margin-bottom: 3%;
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 20px;
+}
+.Options-jp{
+    margin-top: 4%;
+    font-family: 'Lexend Zetta', sans-serif;
+    font-size: 9px;
+}
+
+h3{
+    margin-bottom: 3%;
+}
+
+a{
+    text-decoration: none !important; 
+    color: black;
+}
+
+.Options-icons{
+    font-size: 30px;
+}
+
+@media only screen and (max-width: 768px) {
+.Options-image{
+    width: 25%;
+    margin-bottom: 5%;
+    margin-top: 7%;
+}
+
+.Options-paragraph{
+    margin-bottom: 12%;
+}
+.Options-icons{
+    margin-top: 5%;
+    font-size: 29px;
+    margin-bottom: 12%;
+}
+
+}
