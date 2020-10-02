@@ -1,54 +1,52 @@
-
-.Options-image{
-    width: 13%;
-    margin-bottom: 4%;
-    margin-top: 5%;
+.Options-image {
+  width: 13%;
+  margin-bottom: 4%;
+  margin-top: 5%;
 }
-.Options-paragraph{
-    margin-bottom: 5%;
-    margin-left: 6%;
-    margin-right: 6%;
-    font-family: 'Lexend Zetta', sans-serif;
-    font-size: 10px;
+.Options-paragraph {
+  margin-bottom: 5%;
+  margin-left: 6%;
+  margin-right: 6%;
+  font-family: 'Lexend Zetta', sans-serif;
+  font-size: 15px;
 }
-.Options-links{
-    margin-bottom: 3%;
-    font-family: 'Lexend Zetta', sans-serif;
-    font-size: 20px;
+.Options-links {
+  margin-bottom: 3%;
+  font-family: 'Lexend Zetta', sans-serif;
+  font-size: 22px;
 }
-.Options-jp{
-    margin-top: 4%;
-    font-family: 'Lexend Zetta', sans-serif;
-    font-size: 9px;
-}
-
-h3{
-    margin-bottom: 3%;
+.Options-jp {
+  margin-top: 6.5%;
+  font-family: 'Lexend Zetta', sans-serif;
+  font-size: 9px;
 }
 
-a{
-    text-decoration: none !important; 
-    color: black;
+h3 {
+  margin-bottom: 3%;
 }
 
-.Options-icons{
-    font-size: 30px;
+a {
+  text-decoration: none !important;
+  color: black;
+}
+
+.Options-icons {
+  font-size: 30px;
 }
 
 @media only screen and (max-width: 768px) {
-.Options-image{
+  .Options-image {
     width: 25%;
     margin-bottom: 5%;
     margin-top: 7%;
-}
+  }
 
-.Options-paragraph{
+  .Options-paragraph {
     margin-bottom: 12%;
-}
-.Options-icons{
+  }
+  .Options-icons {
     margin-top: 5%;
     font-size: 29px;
     margin-bottom: 12%;
-}
-
+  }
 }

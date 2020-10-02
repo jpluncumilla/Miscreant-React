@@ -20,3 +20,10 @@
     font-family: 'Lexend Zetta', sans-serif;
     color: black;
 }
+
+@media only screen and (max-width: 768px) {
+    .Home-logo{
+        width: 330px;
+        margin-top: 25%;
+    }
+}

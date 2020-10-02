@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.386b8009.chunk.css",
+    "main.js": "/static/js/main.01b0ab52.chunk.js",
+    "main.js.map": "/static/js/main.01b0ab52.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.456fe0e7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.456fe0e7.js.map",
+    "static/js/2.796cc9de.chunk.js": "/static/js/2.796cc9de.chunk.js",
+    "static/js/2.796cc9de.chunk.js.map": "/static/js/2.796cc9de.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.284d55c234cbd70dda790788bfefe61e.js": "/precache-manifest.284d55c234cbd70dda790788bfefe61e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.386b8009.chunk.css.map": "/static/css/main.386b8009.chunk.css.map",
+    "static/js/2.796cc9de.chunk.js.LICENSE.txt": "/static/js/2.796cc9de.chunk.js.LICENSE.txt",
+    "static/media/logo.PNG": "/static/media/logo.e8cf9881.PNG",
+    "static/media/miscreant.mp4": "/static/media/miscreant.7017826a.mp4",
+    "static/media/mlogo.jpg": "/static/media/mlogo.a5164fbf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.456fe0e7.js",
+    "static/js/2.796cc9de.chunk.js",
+    "static/css/main.386b8009.chunk.css",
+    "static/js/main.01b0ab52.chunk.js"
+  ]
+}
