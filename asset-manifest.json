@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Miscreant-React/static/css/main.119cf09c.chunk.css",
+    "main.js": "/Miscreant-React/static/js/main.672e788e.chunk.js",
+    "main.js.map": "/Miscreant-React/static/js/main.672e788e.chunk.js.map",
+    "runtime-main.js": "/Miscreant-React/static/js/runtime-main.3a807cf7.js",
+    "runtime-main.js.map": "/Miscreant-React/static/js/runtime-main.3a807cf7.js.map",
+    "static/js/2.9929e792.chunk.js": "/Miscreant-React/static/js/2.9929e792.chunk.js",
+    "static/js/2.9929e792.chunk.js.map": "/Miscreant-React/static/js/2.9929e792.chunk.js.map",
+    "index.html": "/Miscreant-React/index.html",
+    "precache-manifest.00991169f9af662e41575701e4490cc9.js": "/Miscreant-React/precache-manifest.00991169f9af662e41575701e4490cc9.js",
+    "service-worker.js": "/Miscreant-React/service-worker.js",
+    "static/css/main.119cf09c.chunk.css.map": "/Miscreant-React/static/css/main.119cf09c.chunk.css.map",
+    "static/js/2.9929e792.chunk.js.LICENSE.txt": "/Miscreant-React/static/js/2.9929e792.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/Miscreant-React/static/media/img1.c6430210.jpg",
+    "static/media/img10.jpg": "/Miscreant-React/static/media/img10.01815429.jpg",
+    "static/media/img11.jpg": "/Miscreant-React/static/media/img11.d8359e28.jpg",
+    "static/media/img12.jpg": "/Miscreant-React/static/media/img12.3296a34d.jpg",
+    "static/media/img13.jpg": "/Miscreant-React/static/media/img13.41a0201b.jpg",
+    "static/media/img14.jpg": "/Miscreant-React/static/media/img14.88b8390b.jpg",
+    "static/media/img15.jpg": "/Miscreant-React/static/media/img15.20912d5a.jpg",
+    "static/media/img16.jpg": "/Miscreant-React/static/media/img16.daf48470.jpg",
+    "static/media/img17.jpg": "/Miscreant-React/static/media/img17.b11a075a.jpg",
+    "static/media/img18.jpg": "/Miscreant-React/static/media/img18.abde5196.jpg",
+    "static/media/img2.jpg": "/Miscreant-React/static/media/img2.32242738.jpg",
+    "static/media/img3.jpg": "/Miscreant-React/static/media/img3.000d165f.jpg",
+    "static/media/img4.jpg": "/Miscreant-React/static/media/img4.bdd9ddc9.jpg",
+    "static/media/img5.jpg": "/Miscreant-React/static/media/img5.a7cfdbfb.jpg",
+    "static/media/img6.jpg": "/Miscreant-React/static/media/img6.7990c91f.jpg",
+    "static/media/img7.jpg": "/Miscreant-React/static/media/img7.29040609.jpg",
+    "static/media/img8.jpg": "/Miscreant-React/static/media/img8.ec400b74.jpg",
+    "static/media/img9.jpg": "/Miscreant-React/static/media/img9.f1d59830.jpg",
+    "static/media/logo.PNG": "/Miscreant-React/static/media/logo.e8cf9881.PNG",
+    "static/media/miscreant.mp4": "/Miscreant-React/static/media/miscreant.7017826a.mp4",
+    "static/media/mlogo.jpg": "/Miscreant-React/static/media/mlogo.a5164fbf.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a807cf7.js",
+    "static/js/2.9929e792.chunk.js",
+    "static/css/main.119cf09c.chunk.css",
+    "static/js/main.672e788e.chunk.js"
+  ]
+}
