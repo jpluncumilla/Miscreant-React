@@ -52,12 +52,17 @@ iframe {
 }
 
 @media only screen and (max-width: 768px) {
+  .Work-image {
+    width: 18%;
+  }
   .Work-title {
     margin-top: 7%;
     margin-bottom: 4%;
   }
   iframe {
+    align-items: center !important;
     margin-bottom: 5%;
+    width: 75%;
   }
   .Work-photography {
     margin-right: 0% !important;
@@ -68,6 +73,6 @@ iframe {
 
   .Work-icon {
     margin-bottom: 6%;
-    font-size: 35px;
+    font-size: 15px !important;
   }
 }

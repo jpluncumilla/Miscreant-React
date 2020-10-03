@@ -46,8 +46,8 @@ class Work extends Component {
           <div className='Work-videos'>
             <iframe
               title='vid1'
-              width='448'
-              height='252'
+              width='403.2'
+              height='226.8'
               src='https://www.youtube.com/embed/ypXEemTWl5E'
               frameborder='0'
               allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
@@ -55,8 +55,8 @@ class Work extends Component {
             ></iframe>
             <iframe
               title='vid2'
-              width='448'
-              height='252'
+              width='403.2'
+              height='226.8'
               src='https://www.youtube.com/embed/K1d_RpYtzRk'
               frameborder='0'
               allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
@@ -64,8 +64,8 @@ class Work extends Component {
             ></iframe>
             <iframe
               title='vid3'
-              width='448'
-              height='252'
+              width='403.2'
+              height='226.8'
               src='https://www.youtube.com/embed/w-z52XYVCRg'
               frameborder='0'
               allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
@@ -74,8 +74,8 @@ class Work extends Component {
 
             <iframe
               title='vid4'
-              width='448'
-              height='252'
+              width='403.2'
+              height='226.8'
               src='https://www.youtube.com/embed/bPNweUXo87Y'
               frameborder='0'
               allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
@@ -84,8 +84,8 @@ class Work extends Component {
 
             <iframe
               title='vid5'
-              width='448'
-              height='252'
+              width='403.2'
+              height='226.8'
               src='https://www.youtube.com/embed/O8x6Prv4gVk'
               frameborder='0'
               allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
@@ -94,8 +94,8 @@ class Work extends Component {
 
             <iframe
               title='vid6'
-              width='448'
-              height='252'
+              width='403.2'
+              height='226.8'
               src='https://www.youtube.com/embed/FAR4e3jILxg'
               frameborder='0'
               allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
